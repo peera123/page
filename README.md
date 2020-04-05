@@ -1,5 +1,5 @@
 # สินค้าของฉัน
 - สินค้าชิ้นที่ 1
-![Roast Duck](/roast duck.jpg)
+![Roast Duck](/Roast Duck.jpg)
 - สินค้าชิ้นที่ 2
 - สินค้าชิ้นที่ 3
